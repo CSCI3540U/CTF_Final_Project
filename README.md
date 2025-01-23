@@ -67,10 +67,10 @@ _**Note:**  Team members cannot create a write-up or video walkthrough of their 
 
 In the final week of classes, each team will choose one of their challenges to highlight and will give a presentation about it.  The presentation will be limited to roughly 8 minutes per group, and will consist of the following:
 
-1. Introduction to the specific vulerability (or vulnerabilities) present in the challenge
-2. An overview of how to exploit this vulnerability
-3. A quick demonstration of exploitation of the vulnerability
-4. A description of how to protect against this vulnerability
+1. Introduction to the specific vulerability (or vulnerabilities) present in the challenge (~2 mins)
+2. An overview of how to exploit this vulnerability (~2 mins)
+3. A quick demonstration of exploitation of the vulnerability (~2 mins)
+4. A description of how to protect against this vulnerability (~2 mins)
 
 _**Note:** Since all members of the group will be required to participate in this presentation, it makes sense that all of the challenges created by that team are part of the same category._
 
