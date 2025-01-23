@@ -1,4 +1,4 @@
-# CTF_Final_Project
+# CTF Challenges Final Project
 
 This project contains the requirements for the end-of-term major project, where students will create capture the flag (CTF) challenges.
 
