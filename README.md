@@ -6,10 +6,10 @@ Please add the names and GitHub usernames of all group members, as of the time o
 
 | #  | Full Name            | GitHub Username |
 | -- | -------------------- | --------------- |
-| 1  | <first1, last1>      | <username1>     |
-| 2  | <first2, last2>      | <username2>     |
-| 3  | <first3, last3>      | <username3>     |
-| 4  | <first4, last4>      | <username4>     |
+| 1  | first1, last1        | username1       |
+| 2  | first2, last2        | username2       |
+| 3  | first3, last3        | username3       |
+| 4  | first4, last4        | username4       |
 
 ## Requirements
 
