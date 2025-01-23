@@ -6,10 +6,10 @@ Please add the names and GitHub usernames of all group members, as of the time o
 
 | #  | Full Name            | GitHub Username |
 | -- | -------------------- | --------------- |
-| 1  | first1, last1        | username1       |
-| 2  | first2, last2        | username2       |
-| 3  | first3, last3        | username3       |
-| 4  | first4, last4        | username4       |
+| 1  | first1 last1        | username1       |
+| 2  | first2 last2        | username2       |
+| 3  | first3 last3        | username3       |
+| 4  | first4 last4        | username4       |
 
 ## Requirements
 
@@ -23,13 +23,13 @@ Each member of the team will create one capture the flag challenge.  The type of
 
 Each challenge will be in the same repository, but within a directory which will follow the format `challenge_name_difficulty_level`.  For example, a challenge named `Find the Password` which is Medium difficulty, could be in a directory named `find_the_password_medium`.
 
-**Note:  All students in the course must have a unique challenge, and must do the work on their challenge on their own.  It is ok to discuss and plan collaboratively, but the coding should be done by each team member, individually.  For the same reason, using generative AI is also not permitted.**
+_**Note:**  All students in the course must have a unique challenge, and must do the work on their challenge on their own.  It is ok to discuss and plan collaboratively, but the coding should be done by each team member, individually.  For the same reason, using generative AI is also not permitted._
 
 #### Web-based Challenge
 
 If you choose to create a web application for your challenge, you will need to include everything required in order to run your web application in Docker.  If you are new to Docker, here are some basic instructions on [how to use Docker to deploy your web application](https://www.docker.com/blog/docker-for-web-developers/).  Place all required files to deploy your application within your challenge directory, and include a `HOW_TO_RUN.md` which includes the docker command to execute your web application.  This file should not be big, as only the docker command should be required.
 
-**Note: Definitely, try to clone the repository on a fresh virtual machine, and run it in docker to verify that this deployment will work.**
+_**Note:** Definitely, try to clone the repository on a fresh virtual machine, and run it in docker to verify that this deployment will work._
 
 #### Binary Challenge
 
@@ -38,7 +38,9 @@ If your challenge is based on a compiled binary, simply include the resulting bi
 `PLATFORM.md` - describe the platform requirements (e.g. Linux, amd64, libraries required)
 `/bin` - contains your binary
 `/src` - contains the source code
-`Makefile` - the makefile to build your code (another build tool is also acceptable, but be sure that it is obvious how to use it)
+`Makefile` - the makefile to build your code
+
+_**Note:** Using another build tool is acceptable, but be sure that it is obvious how to use it._
 
 #### Mobile Challenge
 
@@ -47,7 +49,7 @@ If your challenge is based on a compiled binary, simply include the resulting bi
 `<your_app_name>.apk` - the final android package file to be deployed on a virtual or real device
 `/project` - the Android Studio project, including the original source code
 
-**Note: Be sure to have an appropriate `.gitignore` file to avoid unnecessarily large repositories.**
+_**Note:** Be sure to have an appropriate `.gitignore` file to avoid unnecessarily large repositories._
 
 #### Other Challenges
 
@@ -59,7 +61,7 @@ Each member of the team will create either a write-up or a video walkthrough, sh
 
 A write-up is a step-by-step guide that shows how to solve the challenge, often with screenshots of every step along the way.  A video walkthrough is similar, but a screen capture of the process of solving it.  In both cases, it is recommended that you fully solve the challenge before you attempt the write-up.  However, keep notes of what commands you used as you solve the challenge, to make it easier to create the write-up/walkthrough.
 
-**Note:  Team members cannot create a write-up or video walkthrough of their own challenge.  They must solve one of the challenges by the other team member.**
+_**Note:**  Team members cannot create a write-up or video walkthrough of their own challenge.  They must solve one of the challenges by the other team member._
 
 ### Presentation
 
@@ -70,7 +72,7 @@ In the final week of classes, each team will choose one of their challenges to h
 3. A quick demonstration of exploitation of the vulnerability
 4. A description of how to protect against this vulnerability
 
-**Note: Since all members of the group will be required to participate in this presentation, it makes sense that all of the challenges created by that team are part of the same category.**
+_**Note:** Since all members of the group will be required to participate in this presentation, it makes sense that all of the challenges created by that team are part of the same category._
 
 ## Rubric
 
@@ -82,7 +84,7 @@ The marks for all aspects of this project will be subjective.  This is because t
 | 12 marks    | Challenge                     |
 |  8 marks    | Write-up or video walkthrough |
 
-**Note: Git logs and source code will be examined to ensure that this work has been split evenly among the team members.  When the work done is pretty even between the team members, teams will be scored collectively and receive the same grade.  If the work done is substantially different, then team members will be given individual scores that reflect on their own contributions to the project.**
+_**Note:** Git logs and source code will be examined to ensure that this work has been split evenly among the team members.  When the work done is pretty even between the team members, teams will be scored collectively and receive the same grade.  If the work done is substantially different, then team members will be given individual scores that reflect on their own contributions to the project._
 
 ## How to Submit
 
