@@ -11,6 +11,14 @@ Please add the names and GitHub usernames of all group members, as of the time o
 | 3  | first3 last3        | username3       |
 | 4  | first4 last4        | username4       |
 
+## How to Sign-Up
+
+To ensure that all groups cover a unique topic, we'll be using a [sign-up sheet](https://docs.google.com/spreadsheets/d/1E7DCOupmaAmorU9LAUU-Sh2UKbDamDHr1aGyuaPBtRc/edit?usp=sharing).  If a topic is already taken by another group, please choose another topic.  Topics should go beyond what we learned in class, but they do not need to be a brand new topic.  They can be, but they could also be an extension of a topic that we did learn.  Your presentation should cover something different than what we learned directly in the lectures, and it should be directly related to software security.
+
+You can sign up your team now, and add your challenge topic at a later time.
+
+All teams must have their finalized group names and topic submitted to this form by February 28th, 2025.  At that time, the form will be closed, and students not listed will be contacted to submit their topic.  Those students are likely to lose some marks, but will be allowed to register so that they can ultimately submit their challenge.
+
 ## Requirements
 
 ### Overview
@@ -19,7 +27,14 @@ This project will be completed in a team of 3-4 students.  It has been designed 
 
 ### CTF Challenges
 
-Each member of the team will create one capture the flag challenge.  The type of challenge is up to the team member.  Examples could include a web application with a XSS vulnerability, an application that had a directory traversal vulnerability, an Android application with some hidden secrets to be reverse engineered, a binary that can be exploited, etc.  You can decide the level of difficulty of the challenge, but the more sophisticated the challenge (i.e. more work involved), the higher likelihood of getting a better score will be.  Any challenge that covers what we did in the lectures, is acceptable as a topic.  However, it is recommended that each challenge goes a bit beyond what we learned (but still relevant within software security).  If you are uncertain if a topic is relevant/appropriate, you are welcome to verify with the instructor.
+Each member of the team will create one capture the flag challenge.  The type of challenge is up to the team member.  Examples could include a web application with a XSS vulnerability, an application that had a directory traversal vulnerability, an Android application with some hidden secrets to be reverse engineered, a binary that can be exploited, etc.  Students in this course should avoid easy challenges, and focus on either medium or hard difficulty.  Any challenge that covers what we did in the lectures, is acceptable as a topic.  However, it is recommended that each challenge goes a bit beyond what we learned (but still relevant within software security).  If you are uncertain if a topic is relevant/appropriate, you are welcome to verify with the instructor.
+
+As this will be marked subjectively, here are some tips to ensure that your challenge is as good as possible:
+
+- A more difficult challenge (within reason) is harder to implement, and as such will be more valuable
+- A challenge that goes beyond what we've done in the course is significantly more valuable
+- The challenge must be related to what we've learned in the course, and should be easy to learn based on the knowledge already obtained in the course
+- The uniqueness of the challenge will be a big asset, so challenges that are nearly identical to challenges part of other platforms (e.g. bWAPP, Juice Shop, Hack the Box) will not be as valuable.
 
 Each challenge will be in the same repository, but within a directory which will follow the format `challenge_name_difficulty_level`.  For example, a challenge named `Find the Password` which is Medium difficulty, could be in a directory named `find_the_password_medium`.
 
