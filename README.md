@@ -2,7 +2,7 @@
 
 This project contains the requirements for the end-of-term major project, where students will create capture the flag (CTF) challenges.
 
-Please add the names and GitHub usernames of all group members, as of the time of project submission, to the table below.  If only 3 members, you may delete that row.
+Please add the names and GitHub usernames of all group members, as of the time of project submission, to the table below.  If you have fewer than 5 members, you may delete the extra row(s).
 
 | #  | Full Name            | GitHub Username |
 | -- | -------------------- | --------------- |
@@ -10,14 +10,39 @@ Please add the names and GitHub usernames of all group members, as of the time o
 | 2  | first2 last2        | username2       |
 | 3  | first3 last3        | username3       |
 | 4  | first4 last4        | username4       |
+| 5  | first5 last5        | username5       |
 
 ## How to Sign-Up
 
-To ensure that all groups cover a unique topic, we'll be using a [sign-up sheet](https://docs.google.com/spreadsheets/d/1E7DCOupmaAmorU9LAUU-Sh2UKbDamDHr1aGyuaPBtRc/edit?usp=sharing).  If a topic is already taken by another group, please choose another topic.  Topics should go beyond what we learned in class, but they do not need to be a brand new topic.  They can be, but they could also be an extension of a topic that we did learn.  Your presentation should cover something different than what we learned directly in the lectures, and it should be directly related to software security.
+To ensure that all groups cover a unique topic, we'll be using a [sign-up form](https://forms.gle/6YE1EnwgHrwu515j8).  If a topic is already taken by another group, you will be asked to choose another topic.  Topics should go beyond what we learned in class, but they do not need to be a fully new topic.  A new aspect to a topic that was covered is acceptable, but exactly the same topic is not.  Similarly, your presentation should cover something different than what we learned directly in the lectures, and it should be directly related to software security.
 
 You can sign up your team now, and add your challenge topic at a later time.
 
-All teams must have their finalized group names and topic submitted to this form by February 28th, 2025.  At that time, the form will be closed, and students not listed will be contacted to submit their topic.  Those students are likely to lose some marks, but will be allowed to register so that they can ultimately submit their challenge.
+All teams must have their finalized group names and topic submitted to this form by September 28, 2025.  At that time, the form will be closed, and students not listed will be contacted to submit their topic.  Those students are likely to lose some marks, but will still be allowed to register so that they can ultimately submit their challenge.
+
+### Topic Ideas
+
+The following are some topic ideas that go beyond the course content:
+
+- binary exploitation for any platform other than x86/x64
+- reverse engineering for any platform other than x86/x64 and Android
+- any active directory attack
+- LDAP injection
+- command injection
+- ransomware and malware
+- LLM pentesting
+- privilege escalation in Linux, Windows, MacOS, BSD, or other
+- HTML injection
+- antivirus bypass
+- persistence
+- pivoting
+- attacking password managers
+- attacking encryption
+- hacking IoT devices and/or protocols
+- pentesting iOS apps and devices
+- content management systems (e.g. Wordpress, Drupal)
+
+There are likely many other examples, so do not consider this a comprehensive list.  If you have a different idea, run it by the instructor.
 
 ## Requirements
 
