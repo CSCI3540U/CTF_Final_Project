@@ -27,12 +27,20 @@ The following are some topic ideas that go beyond the course content:
 - binary exploitation for any platform other than x86/x64
 - reverse engineering for any platform other than x86/x64 and Android
 - any active directory attack
+- any SMB attack
 - LDAP injection
 - command injection
 - ransomware and malware
 - LLM pentesting
 - privilege escalation in Linux, Windows, MacOS, BSD, or other
-- HTML injection
+- clickjacking
+- client side template injection
+- content security policy bypass
+- cross-origin resource sharing bypass
+- Java Web Tokens
+- XML external entity attacks
+- redis attacks
+- OAuth attacks
 - antivirus bypass
 - persistence
 - pivoting
