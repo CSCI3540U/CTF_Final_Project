@@ -26,6 +26,8 @@ The following are some topic ideas that go beyond the course content:
 
 - binary exploitation for any platform other than x86/x64
 - reverse engineering for any platform other than x86/x64 and Android
+- game hacking
+- game anti-cheat
 - any active directory attack
 - any SMB attack
 - LDAP injection
