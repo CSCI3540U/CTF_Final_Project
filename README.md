@@ -135,8 +135,8 @@ The marks for all aspects of this project will be subjective.  This is because t
 | Weight      | Component                     |
 | ----------- | ----------------------------- |
 |  5 marks    | Group presentation            |
-| 12 marks    | Challenge                     |
-|  8 marks    | Write-up or video walkthrough |
+| 15 marks    | Challenge                     |
+| 10 marks    | Write-up or video walkthrough |
 
 _**Note:** Git logs and source code will be examined to ensure that this work has been split evenly among the team members.  When the work done is pretty even between the team members, teams will be scored collectively and receive the same grade.  If the work done is substantially different, then team members will be given individual scores that reflect on their own contributions to the project._
 
